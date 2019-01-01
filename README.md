@@ -4,4 +4,4 @@ kafka-java操作topic、生产者、消费者API
 ### 1、kafka-java原生api:同步、异步生产和消费
 ### 2、java管理kafka topic API
 ### 3、kafka事务API
-### 4、系列博客地址：http://www.cnblogs.com/wangzhuxing
+### 4、系列博客地址：https://www.cnblogs.com/wangzhuxing/category/1351802.html
